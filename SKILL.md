@@ -81,12 +81,3 @@ Lưu ý nhanh:
 3. Make focused commits following Conventional Commits.
 4. Push and open PR: include description and test steps.
 5. Wait for CI and reviewers; merge per repo policy.
-
----
-
-If you want, I will:
-- 1) rename the current `skill.md` to `SKILL.md` (uppercase) and keep a human-readable `skill.md` copy, or
-- 2) replace `skill.md` with this importer-friendly `SKILL.md`, or
-- 3) add additional metadata fields to the frontmatter to match any specific importer schema you use.
-
-Reply with the number(s) of actions you want me to take (e.g. "1,2") or "all" to apply everything now.
